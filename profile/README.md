@@ -1,12 +1,7 @@
-## Hi there 👋
+<p align="center"><a href="https://dripverse.org" target="_blank"><img alt="DripVerse" title="Powering the Cyberspace" src="https://raw.githubusercontent.com/dripverse/.github/main/logo.png" height="200px">
+</a>
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![DripVerse Blog](https://img.shields.io/badge/DripVerse-Blog-blue)](https://blog.dripverse.org)
+[![DripVerse Library](https://img.shields.io/badge/DripVerse-Library-green)](https://library.dripverse.org)
+[![Follow us!](https://img.shields.io/twitter/follow/0xDripVerse?color=%238C8DFC&label=%400xDripVerse%20on%20Twitter&style=flat)](https://twitter.com/0xDripVerse)
